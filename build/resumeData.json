@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Abhijit Pachpande",
+    "description":"I am a student of computer science engineering at SRM university, currently in my third year. I am also a freelance web developer",
+    "image":"profilepic.PNG",
+    "bio":"I am exploring CS inside out (atleast I am trying to). Currently I am working on AWS developer associate certificate. I have completed aws cloud practioner recently. I also intend to explore blockchain in the near future. Other than that I develop websites in PHP-full stack as a side hustle. I also am a Linux enthusiast. I like the concept of open source and intend to contribute to the open source community as well.",
+    "contactmessage":"Please do feel free to contact me. I would love to expand my network and am open to work and collaborations. I will get back to you as soon as possible.",
+    "email": "abhi.pachpande@gmail.com",
+    "phone": "9689357955",
+    "github":"https://github.com/Abhi5Pande",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411016"
+    },
+    "website": "http://www.abhijitpachpande.org",
+    "resumedownload":"http://abhijitpachpande.org/resume.pdf",
+    "social":[
+    
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AbhijitPachpan2",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abhijit-pachpande-27925a190/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/abhijitpachpande/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Abhi5Pande",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of skill rated based on my confidence",
+    "education":[
+      {
+        "school":"SRM",
+        "degree":"B.Tech in CSE",
+        "graduated":"2023",
+        "description":"In my third year. I have maintained a CGPA of 9.84 along with extracurricular activities."
+      },
+      {
+        "school":"Modern College,Pune",
+        "degree":"HSC",
+        "graduated":"2019",
+        "description":"Cleared my 12th std Higher Sceondary board exams with 80.6%"
+      },
+      {
+        "school":"Vikhe Patil Memorial School",
+        "degree":"CBSE 10th",
+        "graduated":"2017",
+        "description":"CGPA- 9.8/10"
+      }
+    ],
+    "work":[
+      {
+        "company":"Tech Mahindra",
+        "title":"Intern",
+        "years":"January 2022 - April 2022",
+        "description":""
+      },
+      {
+        "company":"Gigasoft Technology",
+        "title":"Intern",
+        "years":"July 2021 - October 2021",
+        "description":"Worked on a project https://integratedgroup.asia and backend ERP"
+      },
+      {
+        "company":"Freelance",
+        "title":"Web Designer and Developer",
+        "years":"July 2021 - October 2021",
+        "description":"Worked on https://priyankapachpande.com/"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C",
+        "level":"60%"
+      },
+      {
+        "name":"CPP",
+        "level":"71%"
+      },
+      {
+        "name":"Data Structures",
+        "level":"55%"
+      },
+      {
+        "name":"Competitive Programming",
+        "level":"55%"
+      },
+      {
+        "name":"HTML",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"AWS Cloud",
+        "level":"20%"
+      },
+      {
+        "name":"JS",
+        "level":"30%"
+      },
+      {
+        "name":"Linux",
+        "level":"35%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Priyanka Pachpande's website",
+        "category":"Illustration Website",
+        "image":"01.png",
+        "url":"https://priyankapachpande.com/"
+      },
+      {
+        "title":"Ubuntu on my pc",
+        "category":"Kiide",
+        "image":"02.png",
+        "url":"https://www.linkedin.com/feed/update/urn:li:activity:6907291255735242752/"
+      },
+      {
+        "title":"Self art ",
+        "category":"Kiide",
+        "image":"03.JPG",
+        "url":"https://www.linkedin.com/feed/update/urn:li:activity:6907291255735242752/"
+      }
+      
+    ]
+  }
+}
